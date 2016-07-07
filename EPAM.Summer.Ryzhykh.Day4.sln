@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayBubble", "JaggedArrayBubble\JaggedArrayBubble.csproj", "{3A9B558B-79C9-4367-8605-F52F8B113115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuggedArrayBubble.Tests", "JuggedArrayBubble.Tests\JuggedArrayBubble.Tests.csproj", "{3429EC66-DD26-49E4-8EA6-CBDB454C6A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9B558B-79C9-4367-8605-F52F8B113115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9B558B-79C9-4367-8605-F52F8B113115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9B558B-79C9-4367-8605-F52F8B113115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9B558B-79C9-4367-8605-F52F8B113115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3429EC66-DD26-49E4-8EA6-CBDB454C6A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3429EC66-DD26-49E4-8EA6-CBDB454C6A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3429EC66-DD26-49E4-8EA6-CBDB454C6A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3429EC66-DD26-49E4-8EA6-CBDB454C6A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

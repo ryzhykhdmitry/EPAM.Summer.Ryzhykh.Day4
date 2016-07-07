@@ -1,0 +1,5 @@
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\JaggedArrayBubble\bin\Debug\JaggedArrayBubble.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\JaggedArrayBubble\bin\Debug\JaggedArrayBubble.pdb
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\JaggedArrayBubble\obj\Debug\JaggedArrayBubble.csprojResolveAssemblyReference.cache
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\JaggedArrayBubble\obj\Debug\JaggedArrayBubble.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\JaggedArrayBubble\obj\Debug\JaggedArrayBubble.pdb
