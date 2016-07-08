@@ -1,0 +1,9 @@
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\bin\Debug\WorkingWithCustomerClassNUnitTests.dll
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\bin\Debug\WorkingWithCustomerClassNUnitTests.pdb
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\bin\Debug\WorkingWithCustomerClass.dll
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\bin\Debug\WorkingWithCustomerClass.pdb
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\bin\Debug\nunit.framework.xml
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\obj\Debug\WorkingWithCustomerClassNUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\obj\Debug\WorkingWithCustomerClassNUnitTests.dll
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClassNUnitTests\obj\Debug\WorkingWithCustomerClassNUnitTests.pdb

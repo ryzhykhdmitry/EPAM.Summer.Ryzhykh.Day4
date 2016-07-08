@@ -1,0 +1,10 @@
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClass\bin\Debug\WorkingWithCustomerClass.dll
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClass\bin\Debug\WorkingWithCustomerClass.pdb
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClass\obj\Debug\WorkingWithCustomerClass.dll
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClass\obj\Debug\WorkingWithCustomerClass.pdb
+C:\Users\RYZHYKH\Downloads\EpamExample\epam-master\try\EPAM.BSU.01.2016.Bytskevich.02-master\EPAM.BSU.01.2016.Bytskevich.02\WorkingWithCustomerClass\obj\Debug\WorkingWithCustomerClass.csprojResolveAssemblyReference.cache
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\EPAM.Summer.Ryzhykh.Day4\WorkingWithCustomerClass\bin\Debug\WorkingWithCustomerClass.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\EPAM.Summer.Ryzhykh.Day4\WorkingWithCustomerClass\bin\Debug\WorkingWithCustomerClass.pdb
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\EPAM.Summer.Ryzhykh.Day4\WorkingWithCustomerClass\obj\Debug\WorkingWithCustomerClass.csprojResolveAssemblyReference.cache
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\EPAM.Summer.Ryzhykh.Day4\WorkingWithCustomerClass\obj\Debug\WorkingWithCustomerClass.dll
+C:\Users\RYZHYKH\Documents\GitHub\EPAM.Summer.Ryzhykh.Day4\EPAM.Summer.Ryzhykh.Day4\WorkingWithCustomerClass\obj\Debug\WorkingWithCustomerClass.pdb
