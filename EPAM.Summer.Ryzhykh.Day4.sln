@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCustomerClass", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithCustomerClass.NUnitTests", "WorkingWithCustomerClass.NUnitTests\WorkingWithCustomerClass.NUnitTests.csproj", "{ABEA16E8-AAF0-4D09-94D6-3C4DE57CF98B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleExtension", "DoubleExtension\DoubleExtension.csproj", "{379218FF-0E0F-403A-AD65-08AD037AFB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleExtension.NUnitTests", "DoubleExtension.NUnitTests\DoubleExtension.NUnitTests.csproj", "{E14AE47A-26BA-40F1-A1D8-BA67AAA2DB80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{ABEA16E8-AAF0-4D09-94D6-3C4DE57CF98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABEA16E8-AAF0-4D09-94D6-3C4DE57CF98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABEA16E8-AAF0-4D09-94D6-3C4DE57CF98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379218FF-0E0F-403A-AD65-08AD037AFB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379218FF-0E0F-403A-AD65-08AD037AFB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379218FF-0E0F-403A-AD65-08AD037AFB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379218FF-0E0F-403A-AD65-08AD037AFB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14AE47A-26BA-40F1-A1D8-BA67AAA2DB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14AE47A-26BA-40F1-A1D8-BA67AAA2DB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14AE47A-26BA-40F1-A1D8-BA67AAA2DB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14AE47A-26BA-40F1-A1D8-BA67AAA2DB80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
