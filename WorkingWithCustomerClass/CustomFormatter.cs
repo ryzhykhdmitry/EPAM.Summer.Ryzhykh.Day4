@@ -7,8 +7,16 @@ using System.Threading.Tasks;
 
 namespace WorkingWithCustomerClass
 {
+    /// <summary>
+    /// Custom formater.
+    /// </summary>
     public class CustomerFormatter : IFormatProvider, ICustomFormatter
     {
+        /// <summary>
+        /// Allows to get format.
+        /// </summary>
+        /// <param name="formatType">Type of the format.</param>
+        /// <returns>Object.</returns>
         public object GetFormat(Type formatType)
         {
             if (formatType == typeof(ICustomFormatter))
@@ -16,6 +24,14 @@ namespace WorkingWithCustomerClass
             else
                 return null;
         }
+
+        /// <summary>
+        /// Changing format.
+        /// </summary>
+        /// <param name="format">Name of the format.</param>
+        /// <param name="arg">Argument.</param>
+        /// <param name="formatProvider">Provider.</param>
+        /// <returns>Formated string.</returns>
         public string Format(string format, object arg, IFormatProvider formatProvider)
         {
             if (String.IsNullOrEmpty(format))

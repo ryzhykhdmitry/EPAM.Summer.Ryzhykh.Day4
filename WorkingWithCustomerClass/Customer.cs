@@ -7,10 +7,22 @@ using System.Globalization;
 
 namespace WorkingWithCustomerClass
 {
+    /// <summary>
+    /// This class contains customer data.
+    /// </summary>
     public class Customer: IFormattable
     {
+        /// <summary>
+        /// Customer name.
+        /// </summary>
         public string Name { get; set; }
+        /// <summary>
+        /// Customer phone.
+        /// </summary>
         public string ContactPhone { get; set; }
+        /// <summary>
+        /// Customer revenue.
+        /// </summary>
         public decimal Revenue { get; set; }
 
         public Customer(string name, string contactPhone, decimal revenue)
@@ -25,6 +37,12 @@ namespace WorkingWithCustomerClass
             return ToString("NRP", null); 
         }
 
+        /// <summary>
+        /// Allows to get data in the different formats.
+        /// </summary>
+        /// <param name="format">Type of format.</param>
+        /// <param name="provider">Provider.</param>
+        /// <returns>Custumer info.</returns>
         public string ToString(string format, IFormatProvider provider)
         {
             if (String.IsNullOrEmpty(format))
