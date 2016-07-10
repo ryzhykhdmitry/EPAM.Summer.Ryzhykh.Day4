@@ -11,7 +11,7 @@ namespace DoubleExtension.NUnitTests
     [TestFixture]
     public class DoubleExtencionTests
     {
-        [Test, TestCaseSource(typeof(MyDataClass), "TestCases")]
+        [Test, TestCaseSource(typeof(DataClass), "TestCases")]
         public void ConvertDouble_Minus100toBits_Bits(double number, string result)
         {
             string tempString;
@@ -20,7 +20,7 @@ namespace DoubleExtension.NUnitTests
         }
     }
 
-    public class MyDataClass
+    public class DataClass
     {
         public static IEnumerable TestCases
         {
